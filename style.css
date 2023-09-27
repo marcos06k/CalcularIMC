@@ -12,3 +12,9 @@
     border-radius: 25px;
 }
 
+#resultado {
+    background-color: azure;
+    width: 200px;
+    height: 100px;
+}
+
